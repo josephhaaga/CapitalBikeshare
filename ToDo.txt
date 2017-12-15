@@ -1,0 +1,3 @@
+Calculate average speed (distance/duration) and attempt to cluster riders into 'rushed commuters' and 'recreational riders'
+
+Look at users who return bikes right before the 30 minute mark, and potential disparities in distance
